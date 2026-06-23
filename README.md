@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-de-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Pasión de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-de-amor/) |
+| **Get License** | [Secure Licensing Rights for Pasión de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-de-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Mami, la noche entera me pide tu calor
+> Bailando en la oscuridad, tú y yo, baby, sin control
+> Esa mirada tuya me lleva a otra dimensión
+> Yo soy el fuego, mami, y tú mi pasión de amor
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
