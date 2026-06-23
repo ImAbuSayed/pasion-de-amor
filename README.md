@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-de-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Pasión de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-de-amor/) |
+| **Get License** | [Official Music Licensing for Pasión de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-de-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4004ee3a6e59f30abe8617f7f4a0e383f70729bd9885c0e79ed853eecf4349b2` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
